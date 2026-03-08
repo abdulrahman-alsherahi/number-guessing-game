@@ -1,6 +1,6 @@
 
 
-# 2 - Gussing Gama!
+# Gussing Gama!
 
 
 import random
